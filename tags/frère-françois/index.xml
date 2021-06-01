@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Les Amis de la Bergerie</title>
-    <link>https://refcom-bergerie.github.io/posts/</link>
-    <description>Recent content in Posts on Les Amis de la Bergerie</description>
+    <title>Frère François on Les Amis de la Bergerie</title>
+    <link>https://refcom-bergerie.github.io/tags/fr%C3%A8re-fran%C3%A7ois/</link>
+    <description>Recent content in Frère François on Les Amis de la Bergerie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Tue, 01 Jun 2021 08:51:53 +0200</lastBuildDate><atom:link href="https://refcom-bergerie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 08:51:53 +0200</lastBuildDate><atom:link href="https://refcom-bergerie.github.io/tags/fr%C3%A8re-fran%C3%A7ois/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convocation AG 2021</title>
       <link>https://refcom-bergerie.github.io/posts/03_ag2021/</link>

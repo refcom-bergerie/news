@@ -5,6 +5,34 @@
     <link>https://refcom-bergerie.github.io/tags/</link>
     <description>Recent content in Tags on Les Amis de la Bergerie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://refcom-bergerie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 01 Jun 2021 08:51:53 +0200</lastBuildDate><atom:link href="https://refcom-bergerie.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Association</title>
+      <link>https://refcom-bergerie.github.io/tags/association/</link>
+      <pubDate>Tue, 01 Jun 2021 08:51:53 +0200</pubDate>
+      
+      <guid>https://refcom-bergerie.github.io/tags/association/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frère François</title>
+      <link>https://refcom-bergerie.github.io/tags/fr%C3%A8re-fran%C3%A7ois/</link>
+      <pubDate>Tue, 01 Jun 2021 08:51:53 +0200</pubDate>
+      
+      <guid>https://refcom-bergerie.github.io/tags/fr%C3%A8re-fran%C3%A7ois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visite virtuelle</title>
+      <link>https://refcom-bergerie.github.io/tags/visite-virtuelle/</link>
+      <pubDate>Sun, 25 Apr 2021 16:24:27 +0200</pubDate>
+      
+      <guid>https://refcom-bergerie.github.io/tags/visite-virtuelle/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
